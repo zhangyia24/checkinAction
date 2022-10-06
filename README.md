@@ -1,5 +1,5 @@
 个人收集并适配Github Actions的各类  签到 大杂烩
-做了个简易的图文教程   
+做了个简易的图文教 程   
 
 【腾讯文档】爱奇艺
 https://docs.qq.com/doc/DU012TGRuWXBoSElV
